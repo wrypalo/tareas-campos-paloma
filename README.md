@@ -8,7 +8,6 @@ https://pudding.cool/2025/02/middle-school/
 
 The middle age es una webstory que investiga las diferentes emociones de estudiantes de primaria que están en etapas transitorias hacia la adolescencia. Especificamente, enfocado en niños de 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th y 12th grade. 
 
-![alt text](Niños-1.png)
 
 Dentro de la lectura, se entiende que existe un entrevistador que va a preguntando a los distintos niveles de curso cómo se sienten. Comienzan con el nivel más pequeño 4th y continúa comparandolo con 5th, 6th y sucesivamente. La encuesta muestra a 27 personajes, que representan distintas etnias y edades. Este recurso le da al lector la sensación de estar frente a un grupo real de estudiantes, aunque en realidad se trata de una síntesis de los más de 40 millones de respuestas recolectadas en encuestas. Lo que podría ser una fría acumulación de cifras se transforma así en una conversación cálida y directa.
 
